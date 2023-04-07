@@ -5,15 +5,16 @@ html {
 }
 
 body {
-   width :600px;
-   margin : auto auto;
+   width :800px;
+   margin : 0 auto;
+   /* top -> right -> bottom -> left (for padding and margin) */
    padding : 0 20px 20px 20px;
    background-color: violet;
    border : 2px solid blue;
 }
 
 h1 {
-   margin : 0px;
+   margin : 0;
    padding : 10px 0;
    color : #B69EFE;
    font-size : 40px;
@@ -29,5 +30,5 @@ p, li {
 
 img {
    display : block;
-   margin : 0 auto
+   margin : 0 auto;
 }
