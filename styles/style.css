@@ -1,0 +1,33 @@
+html {
+   font-family : Kanit;
+   font-size : 17px;
+   background-color : #B69EFE
+}
+
+body {
+   width :600px;
+   margin : auto auto;
+   padding : 0 20px 20px 20px;
+   background-color: violet;
+   border : 2px solid blue;
+}
+
+h1 {
+   margin : 0px;
+   padding : 10px 0;
+   color : #B69EFE;
+   font-size : 40px;
+   text-align : center;
+   text-shadow : 3px 3px 1px #481ACF;
+}
+
+p, li {
+   font-size : 18px;
+   line-height : 1.3;
+   letter-spacing : .5px;
+}
+
+img {
+   display : block;
+   margin : 0 auto
+}
