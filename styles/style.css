@@ -29,6 +29,17 @@ p, li {
 }
 
 img {
-   display : block;
+   margin : 0 0 0 150px;
+   width : 400px;
+   height : 400px;
+}
+
+table {
    margin : 0 auto;
+   border : 2px solid black;
+   border-style: outset;
+}
+
+figcaption {
+   margin : 0 0 0 145px;
 }
